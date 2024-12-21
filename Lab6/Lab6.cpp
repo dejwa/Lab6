@@ -147,7 +147,7 @@ void zadanie4() {
 int main()
 {
     zadanie1();
-    //zadanie2();
+    zadanie2();
     zadanie4();
 
     return 0;
